@@ -1,2 +1,1 @@
-# TallerClaseVentas
-# TallerClaseVentas
+# Gestion de tienda

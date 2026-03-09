@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background: #fad9d9;
+}
+
+input {
+    margin: 4vh;
+    padding: 5px;
+}
+
+button {
+    padding: 6px 10px;
+    margin: 5px;
+    cursor: pointer;
+    background: #ffcac3;
+}
+
+pre {
+    background: #ffffff;
+    padding: 20px;
+}
